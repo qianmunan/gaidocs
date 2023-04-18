@@ -1,0 +1,2 @@
+# gaidocs
+vitepress build result
