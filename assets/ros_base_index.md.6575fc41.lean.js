@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.29cad062.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ros/base/index.md","lastUpdated":null}'),s={name:"ros/base/index.md"};function r(n,o,c,d,i,p){return t(),a("div")}const m=e(s,[["render",r]]);export{l as __pageData,m as default};
